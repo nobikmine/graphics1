@@ -1,5 +1,5 @@
-﻿#include <glew.h>
-#include <glfw3.h>
+﻿#include "include/glew.h"
+#include "include/glfw3.h"
 #include <iostream>
 
 void error_callback(int error, const char* description) {
