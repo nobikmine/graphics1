@@ -19,4 +19,12 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="fragment_shader.glsl">
+      <Filter>Исходные файлы</Filter>
+    </None>
+    <None Include="vertex_shader.glsl">
+      <Filter>Исходные файлы</Filter>
+    </None>
+  </ItemGroup>
 </Project>

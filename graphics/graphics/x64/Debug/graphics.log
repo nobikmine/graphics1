@@ -1,2 +1,4 @@
 ﻿  graphics.cpp
+C:\Users\vadim\OneDrive\Рабочий стол\graphics1-main\graphics\graphics\graphics.cpp(156,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\vadim\OneDrive\Рабочий стол\graphics1-main\graphics\x64\Debug\graphics.exe при последней инкрементной компоновке; выполняется полная компоновка
   graphics.vcxproj -> C:\Users\vadim\OneDrive\Рабочий стол\graphics1-main\graphics\x64\Debug\graphics.exe
